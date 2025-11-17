@@ -1,0 +1,90 @@
+"""
+Task1:
+
+"""
+Create a Python program that acts as a Math Puzzle Builder.
+The program should:
+Present 3–4 different math puzzles (addition, subtraction, multiplication, division, or comparing numbers).
+
+
+Ask the user to answer each puzzle.
+
+
+Keep track of correct answers and calculate a score at the end.
+
+
+Display a final message based on the score.
+
+
+"""
+# Your output should be like this
+"""
+🧩 Example Output
+Puzzle 1: Addition
+Enter first number: 5
+Enter second number: 3
+What is 5.0 + 3.0? 8
+✅ Correct!
+
+Puzzle 2: Subtraction
+Enter first number: 9
+Enter second number: 4
+What is 9.0 - 4.0? 6
+❌ Wrong!
+
+Puzzle 3: Multiplication
+Enter first number: 2
+Enter second number: 6
+What is 2.0 × 6.0? 12
+✅ Correct!
+
+Puzzle 4: Compare Numbers
+Enter first number: 7
+Enter second number: 7
+Which number is greater? (a/b/equal): equal
+✅ Correct!
+
+🏆 Your Score: 3 / 4
+👍 Good Job! Keep Practicing!
+
+"""
+"""
+Task2:
+
+
+Create a Python program that acts as a Math Adventure Game.
+The user will go through a series of math challenges to progress through the story. The game should:
+Start with a story introduction.
+
+
+Offer multiple-choice options at each stage.
+
+
+Each option asks a math problem (arithmetic, comparisons, area/perimeter).
+
+
+If the user answers correctly, they progress; if not, they get a friendly message.
+
+
+Use if/elif/else statements — no loops.
+
+
+The game should have at least 3 stages.
+
+🧩 Example Output — Stage 1
+🏞️ Stage 1: The Bridge Challenge
+Choose a path:
+1. Solve an addition problem
+2. Solve a subtraction problem
+Enter your choice (1/2): 1
+Enter first number for addition: 7
+Enter second number for addition: 5
+What is 7.0 + 5.0? 12
+✅ Correct! You crossed the bridge!
+# ============================================================
+
+print("===============================================")
+print("🗺️  MATH ADVENTURE GAME  🎲")
+print("Welcome, brave explorer! Solve math puzzles to progress.")
+print("===============================================\n")
+
