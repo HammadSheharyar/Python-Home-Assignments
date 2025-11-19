@@ -1,0 +1,82 @@
+Problem 1: Odd or Even?
+Task: 
+Write a Python code  that determines if an integer variable named is even or odd. 
+(Hint: Use the modulo operator )
+Input: 
+
+number = 13  # Try changing this value for testing!
+
+Expected Output (for number = 13):The number 13 is Odd.
+
+Expected Output (for number = 10):The number 10 is Even.
+
+
+Problem 2: 
+Task 2: Pass or Fail
+
+Ask the user for their marks (0–100).
+
+If marks are 50 or more, print "Pass"
+
+Else print "Fail"
+
+
+Task 3: Check Positive or Negative
+
+Take an integer as input.
+
+If it is greater than 0, print "Positive"
+
+Otherwise print "Negative or Zero"
+
+
+Task 4: Password Check
+
+Set a password inside the code, e.g.
+
+correct_password = "python123"
+
+
+Ask the user to enter a password.
+
+If the passwords match → "Access Granted"
+
+Else → "Wrong Password"
+
+
+
+Task 5: Compare Two Numbers
+
+Take two numbers from the user.
+
+If the first number is greater than the second, print "First is bigger"
+
+Else print "Second is bigger or equal"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

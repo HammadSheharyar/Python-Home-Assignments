@@ -1,0 +1,180 @@
+✅ Python Homework: Functions (Parametric & Non-Parametric)
+Part A — Non-Parametric Functions
+
+A non-parametric function is a function with no parameters.
+
+Task 1: Greeting
+
+Create a function greet() that prints:
+
+Hello! Welcome to Python.
+
+
+Call the function 2 times.
+
+Task 2: Show Today’s Date (Fake Static Text)
+
+Create a function show_date() that prints any date you choose (no need for real date functions).
+
+Example output:
+
+Today's date is 20 November 2025
+
+
+Call it once.
+
+Task 3: Simple Calculator Menu
+
+Create a function menu() that prints:
+
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+
+Call the function.
+
+Part B — Parametric Functions
+
+A parametric function is a function that takes one or more parameters.
+
+Task 4: Add Two Numbers
+
+Write a function add(a, b) that prints the sum of two numbers.
+
+Call it with 3 different pairs of numbers.
+
+Task 5: Check Voting Eligibility
+
+Write a function check_age(age):
+
+If age ≥ 18 → print "Eligible to vote"
+
+Else → print "Not eligible"
+
+Call it with ages: 10, 18, 25.
+
+Task 6: Multiply Any Three Numbers
+
+Write a function multiply(x, y, z) that prints the product.
+
+Call it once.
+
+Task 7: Introduction Function
+
+Write a function:
+
+def intro(name, city):
+
+
+The function prints something like:
+
+My name is Ali and I live in Lahore.
+
+
+Call it with 2 different names and cities.
+
+Part C — Bonus Questions (Optional)
+⭐ Task 8: Return vs Print
+
+Create a function square(n) that returns the square of a number.
+Call the function and print the result.
+
+⭐ Task 9: Default Parameters
+
+Create a function:
+
+def welcome(name="Guest"):
+
+
+The function prints:
+
+Welcome, <name>!
+
+
+Call it:
+
+Once with a name
+
+Once without a name
+
+
+✅ Default Parameter Practice Questions
+
+Q1.
+
+Create a function welcome(name="Guest") that prints a welcome message.
+Call it once with a name and once without a name.
+
+Q2.
+
+Create a function add(a=0, b=0) that prints the sum of two numbers.
+Call it:
+
+once with two numbers
+
+once with no numbers
+
+Q3.
+
+Write a function country(name, country="Pakistan") that prints:
+
+<name> is from <country>
+
+
+Call it with:
+
+only the name
+
+name + another country
+
+Q4.
+
+Write a function power(num, exponent=2) that prints num raised to the power of exponent.
+Call it with default exponent and custom exponent.
+
+Q5.
+
+Create a function ticket(age, price=100) that prints the ticket price after giving a 50% discount if age < 12.
+Call it with different ages, once using default price.
+
+Q6.
+
+Create a function area(length, width=1) that prints the area.
+Try calling the function with:
+
+one value
+
+two values
+
+Q7.
+
+Write a function login(username="admin", password="1234")
+Print "Access Granted" if both match the given defaults.
+Call it in 2 different ways.
+
+Q8.
+
+Create a function greet(time="Morning") that prints:
+
+Good <time>!
+
+
+Call it for morning, afternoon, and with no arguments.
+
+Q9.
+
+Write a function show_info(name="Unknown", age="Not given") that prints both values.
+Call it with:
+
+both arguments
+
+only one argument
+
+no arguments
+
+Q10.
+
+Create a function multiply(a, b=1) that prints the product.
+Call it with one number and then with two numbers.
